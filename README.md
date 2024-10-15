@@ -1,4 +1,4 @@
-![Subhash's Banner](https://user-images.githubusercontent.com/12345678/your-banner-url.png)
+![Subhash's Banner](github-header-image.png)
   
 ### Hey there! 👋 I'm Subhash
 <a href="https://github.com/subhashbs36" target="_blank">
